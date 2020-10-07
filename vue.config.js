@@ -1,0 +1,10 @@
+module.exports={
+  configurwebpack:{
+    resolve:{
+      'assets':'@/assets',
+      'common':'@/common',
+      'components':'@/components',
+      'network':'@/network',
+    }
+  }
+}
